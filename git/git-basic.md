@@ -54,7 +54,7 @@
    
    
    
-   ## 원격저장소 활용하기
+## 원격저장소 활용하기
    
    1. 원격저장소(remote repository) 등록하기
    
@@ -86,7 +86,7 @@
    $ git pull origin master
    ```
    
-   ## 원격 저장소 복제(clone) 하기
+## 원격 저장소 복제(clone) 하기
    
    ```bash
    git clone __경로__
