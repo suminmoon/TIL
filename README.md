@@ -32,3 +32,10 @@
 - [04_서버관리](<https://github.com/suminmoon/TIL/tree/master/OracleSQL/04_서버관리>)
 - [05_Datamodeling](<https://github.com/suminmoon/TIL/tree/master/OracleSQL/05_DataModeling>)
 
+
+
+# django
+
+- [django_intro](<https://github.com/suminmoon/TIL/tree/master/Web(dJango)>)
+
+  
