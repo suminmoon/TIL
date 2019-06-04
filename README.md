@@ -36,7 +36,7 @@
 
 # django
 
-- [django_intro](<<https://github.com/suminmoon/TIL/tree/master/django>)
+- [django_intro](<https://github.com/suminmoon/TIL/tree/master/django>)
 
   
   
