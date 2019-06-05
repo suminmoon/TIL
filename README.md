@@ -6,25 +6,18 @@
 
 # Category
 
-- [Git](<https://github.com/suminmoon/TIL/tree/master/git>)
-
----
-
 ### Git
-
+- [Git](<https://github.com/suminmoon/TIL/tree/master/git>)
 - [git-basic](<https://github.com/suminmoon/TIL/blob/master/git/git-basic.md>)
 
-
-
-## Python
+### Python
 
 - [python-basic](<https://github.com/suminmoon/TIL/tree/master/python/python-basic>)
 - [np/pd](<https://github.com/suminmoon/TIL/tree/master/python/np pd>)
 - [ML/DL](<https://github.com/suminmoon/TIL/tree/master/python/ML DL>)
 
 
-
-## SQL
+### SQL
 
 - [01_SQL](<https://github.com/suminmoon/TIL/tree/master/OracleSQL/01_SQL>)
 - [02_PLSQL](<https://github.com/suminmoon/TIL/tree/master/OracleSQL/02_PLSQL>)
@@ -33,11 +26,11 @@
 - [05_Datamodeling](<https://github.com/suminmoon/TIL/tree/master/OracleSQL/05_DataModeling>)
 
 
+### django
 
-# django
-
-- [django_intro](<https://github.com/suminmoon/TIL/tree/master/django>)
+- [django_intro](<https://github.com/suminmoon/m44-django/blob/master/django_intro.md>)
 
   
   
   
+
