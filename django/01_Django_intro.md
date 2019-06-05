@@ -15,6 +15,28 @@
 
 --- django 프로젝트를 생성하면 반드시 실행해야 하는 과정 ---
 
+```
+
+1. pip install django
+(장고 설치)
+2. django-admin startproject crud .
+(현재 디렉토리에서 프로젝트 시작하겠다)
+3. python manage.py startapp boards
+(app 생성)
+--
+4. settings.py에서
+INSTALLED_APPS 에 
+ '(app이름).(apps).(apps.py의 class 이름)'
+( ) 은 제거
+
+LANGUAGE_CODE = 'ko-kr'
+TIME_ZONE = 'Asia/Seoul'
+```
+
+
+
+---
+
 1. 장고 시작하기
 
 ```bash
