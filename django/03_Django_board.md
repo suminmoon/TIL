@@ -15,7 +15,7 @@
 
 
 
-#### GET 과 POST 를 나누는 것이 'RESTFUL' 하게 나누는 것?
+#### 'RESTFUL' 하게 나누는 것?
 
 ```bash
 - REST의 정의
@@ -55,6 +55,21 @@ CSRF 공격(Cross Site Request Forgery)은 웹 어플리케이션 취약점 중 
 	{% csrf_token %} 추가
 
 ```
+
+
+
+#### RESTful
+
+```
+- 분산 시스템 설계를 위한 아키텍처 스타일
+- REST 구성 / 중심 규칙
+자원 : URI - 정보의 자원을 표현해야 한다. (자원을 표현하는데만 집중. 행위포함x)
+행위 : HTTP Method - 자원에 대한 행위
+표현 : MIME Type
+```
+
+
+
 
 
 

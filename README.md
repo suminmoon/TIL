@@ -32,8 +32,14 @@
 ### django
 
 - [django_intro](<https://github.com/suminmoon/m44-django/blob/master/django_intro.md>)
+
 - [django_crud(DBmodeling)](<https://github.com/suminmoon/django-crud>)
+
 - [django_board](<https://github.com/suminmoon/m44-django/tree/master/django-board>)
 
+- [CRUD](<https://github.com/suminmoon/django-crud>)
+
+  
+  
   
 
